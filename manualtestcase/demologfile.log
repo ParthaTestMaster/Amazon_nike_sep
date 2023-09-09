@@ -1,0 +1,6 @@
+
+2023-07-27 09:35:42,408 - __main__ - DEBUG - debug message
+2023-07-27 09:35:42,408 - __main__ - INFO - info message
+2023-07-27 09:35:42,408 - __main__ - WARNING - warn message
+2023-07-27 09:35:42,408 - __main__ - ERROR - error message
+2023-07-27 09:35:42,408 - __main__ - CRITICAL - critical message

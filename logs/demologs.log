@@ -1,0 +1,5 @@
+2023-07-26 15:54:50,160-DEBUG-This is a debug message
+2023-07-26 15:54:50,160-INFO-This is an info message
+2023-07-26 15:54:50,160-WARNING-This is a warning message
+2023-07-26 15:54:50,160-ERROR-This is an error message
+2023-07-26 15:54:50,160-CRITICAL-This is a critical message
